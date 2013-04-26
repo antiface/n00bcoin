@@ -7,10 +7,10 @@ Irrelevant. See: Bitcoin Practise
 Bitcoin Practise
 ================
 #Step One:
-a) What do you want to do?
+a) What do you want to do? <p>
 b) What do you need to do it?
 <p>
 
 #Step Two:
-a) If you want a Wallet, download, install, and run a Wallet.
+a) If you want a Wallet, download, install, and run a Wallet. <p>
 b) If you want to Mine, download, install, and run a miner.
