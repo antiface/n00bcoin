@@ -14,3 +14,5 @@ b) What do you need to do it?
 #Step Two:
 a) If you want a Wallet, download, install, and run a Wallet. <p>
 b) If you want to Mine, download, install, and run a miner.
+
+## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
